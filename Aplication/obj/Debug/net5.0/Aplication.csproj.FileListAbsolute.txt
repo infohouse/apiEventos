@@ -1,0 +1,17 @@
+C:\Users\root\api\Aplication\bin\Debug\net5.0\Aplication.deps.json
+C:\Users\root\api\Aplication\bin\Debug\net5.0\Aplication.dll
+C:\Users\root\api\Aplication\bin\Debug\net5.0\ref\Aplication.dll
+C:\Users\root\api\Aplication\bin\Debug\net5.0\Aplication.pdb
+C:\Users\root\api\Aplication\obj\Debug\net5.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\root\api\Aplication\obj\Debug\net5.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\api\Aplication\obj\Debug\net5.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\root\api\Aplication\obj\Debug\net5.0\Aplication.AssemblyInfo.cs
+C:\Users\root\api\Aplication\obj\Debug\net5.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\root\api\Aplication\obj\Debug\net5.0\Aplication.dll
+C:\Users\root\api\Aplication\obj\Debug\net5.0\ref\Aplication.dll
+C:\Users\root\api\Aplication\obj\Debug\net5.0\Aplication.pdb
+C:\Users\root\api\Aplication\bin\Debug\net5.0\Domain.dll
+C:\Users\root\api\Aplication\bin\Debug\net5.0\Persistence.dll
+C:\Users\root\api\Aplication\bin\Debug\net5.0\Domain.pdb
+C:\Users\root\api\Aplication\bin\Debug\net5.0\Persistence.pdb
+C:\Users\root\api\Aplication\obj\Debug\net5.0\Aplication.csproj.CopyComplete
